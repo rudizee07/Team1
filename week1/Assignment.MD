@@ -52,3 +52,27 @@ Christian Paterson:
 - [GitHub](https://github.com/fossology/fossology)
 
 ---
+Ludovic Gasc:
+
+1. **[Node.js](https://nodejs.org/en/)**
+*Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.*
+- [Collaboration+IRC](https://nodejs.org/en/get-involved/)
+- [GitHub](https://github.com/nodejs/node)
+
+2. **[Express.js](https://expressjs.com/)**
+*Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.*
+- [Gitter](https://gitter.im/expressjs/express)
+- [GitHub](https://github.com/expressjs/express)
+
+3. **[PostgreSQL](https://www.postgresql.org/)**
+*PostgreSQL also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley. In 1996, the project was renamed to PostgreSQL to reflect its support for SQL. After a review in 2007, the development team decided to keep the name PostgreSQL and the alias Postgres.
+PostgreSQL features transactions with Atomicity, Consistency, Isolation, Durability (ACID) properties, automatically updatable views, materialized views, triggers, foreign keys, and stored procedures. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users.*
+- [Mailing-lists](https://www.postgresql.org/list/)
+- [Git repository](https://git.postgresql.org/gitweb/?p=postgresql.git)
+
+4. **[Python](https://www.python.org/)**
+*Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.*
+- [Mailing-lists](https://www.python.org/community/lists/)
+- [GitHub](https://github.com/python/cpython)
+
+---

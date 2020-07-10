@@ -41,3 +41,14 @@ Antonio Nardella:
 - [Mailinglists](https://lists.manjaro.org/mailman/listinfo/manjaro-security)
 - [Forums](https://forum.manjaro.org/)
 - [GitHub](https://gitlab.manjaro.org/explore/groups)
+
+
+---
+Christian Paterson:
+
+1. **[Fossology](https://www.fossology.org)**
+*An open source tool coordinated via the LF for scanning projects and understanding what open source licenses exist in the code base*
+
+- [GitHub](https://github.com/fossology/fossology)
+
+---

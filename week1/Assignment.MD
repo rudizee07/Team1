@@ -4,7 +4,7 @@ Members
 - Rudolf (Rudi) Coetzee
 - Christian Paterson
 - Ludovic Gasc
-- Antonio Nardella]
+- Antonio Nardella
 
 :dart: Assignment Week 1
 ---

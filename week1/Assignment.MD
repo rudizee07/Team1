@@ -78,10 +78,10 @@ PostgreSQL features transactions with Atomicity, Consistency, Isolation, Durabil
 ---
 Rudi Coetzee:
 
-**FreeBSD(https://www.freebsd.org/)** 
+1. **FreeBSD(https://www.freebsd.org/)** 
 *FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.*
 - [Mailing-list](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributors/staff-committers.html)
 - [Github](https://www.freebsd.org/platforms/)
-- [todo projects](https://wiki.freebsd.org/IdeasPage)
+- [ToDo projects](https://wiki.freebsd.org/IdeasPage)
 
 ---

@@ -28,8 +28,54 @@ Four communities to look at:
 
 ## FreeBSD
 
+### Mission
+---
+### Governance
+---
+### Key members
+---
+### Artifacts
+---
+### Noteworthy characteristics
+---
+
+
 ## Node.JS
+
+
+### Mission
+---
+### Governance
+---
+### Key members
+---
+### Artifacts
+---
+### Noteworthy characteristics
+---
 
 ## One
 
+### Mission
+---
+### Governance
+---
+### Key members
+---
+### Artifacts
+---
+### Noteworthy characteristics
+---
+
 ## Two
+
+### Mission
+---
+### Governance
+---
+### Key members
+---
+### Artifacts
+---
+### Noteworthy characteristics
+---

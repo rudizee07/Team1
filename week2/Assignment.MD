@@ -103,9 +103,11 @@ Face-to-Face Opportunities: Facilitating collaboration among members of the comm
 ---
 [FreeBSD Staff](https://www.freebsdfoundation.org/about/staff/)  
 [FreeBSD Foundation BoD](https://www.freebsdfoundation.org/about/board-of-directors/)
+[FreeBSD Project Teams](https://www.freebsd.org/administration.html#t-core)
 
 ### Artifacts
 ---
+
 ### Noteworthy characteristics
 ---
 

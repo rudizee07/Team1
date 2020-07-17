@@ -1,4 +1,36 @@
 # Cultivate an Open Source Community microcourse
+
+- [Cultivate an Open Source Community microcourse](#cultivate-an-open-source-community-microcourse)
+  * [Team 1](#team-1)
+  * [:dart: Assignment Week 2](#-dart--assignment-week-2)
+  * [FreeBSD](#freebsd)
+    + [Mission](#mission)
+    + [Governance](#governance)
+    + [Key members](#key-members)
+    + [Artifacts](#artifacts)
+    + [Noteworthy characteristics](#noteworthy-characteristics)
+  * [Node.JS](#nodejs)
+    + [Mission](#mission-1)
+    + [Governance](#governance-1)
+    + [Key members](#key-members-1)
+    + [Artifacts](#artifacts-1)
+    + [Noteworthy characteristics](#noteworthy-characteristics-1)
+  * [One](#one)
+    + [Mission](#mission-2)
+    + [Governance](#governance-2)
+    + [Key members](#key-members-2)
+    + [Artifacts](#artifacts-2)
+    + [Noteworthy characteristics](#noteworthy-characteristics-2)
+  * [Two](#two)
+    + [Mission](#mission-3)
+    + [Governance](#governance-3)
+    + [Key members](#key-members-3)
+    + [Artifacts](#artifacts-3)
+    + [Noteworthy characteristics](#noteworthy-characteristics-3)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Team 1
 Members
 - Rudolf (Rudi) Coetzee
@@ -14,9 +46,9 @@ You are diving into the open source ecosystem and will take a closer look at som
 
 Four communities to look at:
 
-    FreeBSD
-    Node.js
-    two more communities from your week 1 list
+- FreeBSD
+- Node.js
+- two more communities from your week 1 list
 
 
 **Task**: As a team and for each of your open source communities, look at the governance documents, observe key members in these communities, identify the artifacts the communities are working on, and familiarize yourself with the community.
@@ -61,14 +93,15 @@ Face-to-Face Opportunities: Facilitating collaboration among members of the comm
 
 ### Governance
 ---
-[FreeBSD Foundation](https://www.freebsdfoundation.org/about/)
-[FreeBSD Project Administration and Management](https://www.freebsd.org/administration.html)
+[FreeBSD Foundation](https://www.freebsdfoundation.org/about/)  
+[FreeBSD Project Administration and Management](https://www.freebsd.org/administration.html)  
 [The Evolution of FreeBSD Governance](https://papers.freebsd.org/2018/bsdcan/mckusick-the_evolution_of_freebsd_governance/)
 
 ### Key members
 ---
-[FreeBSD Staff](https://www.freebsdfoundation.org/about/staff/)
+[FreeBSD Staff](https://www.freebsdfoundation.org/about/staff/)  
 [FreeBSD Foundation BoD](https://www.freebsdfoundation.org/about/board-of-directors/)
+
 ### Artifacts
 ---
 ### Noteworthy characteristics

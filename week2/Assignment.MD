@@ -1,5 +1,7 @@
 # Cultivate an Open Source Community microcourse
 
+# Table of Contents
+
 - [Cultivate an Open Source Community microcourse](#cultivate-an-open-source-community-microcourse)
   * [Team 1](#team-1)
   * [:dart: Assignment Week 2](#-dart--assignment-week-2)

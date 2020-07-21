@@ -116,15 +116,25 @@ Face-to-Face Opportunities: Facilitating collaboration among members of the comm
 
 
 ### Mission
+OpenJS Foundation - Our mission is to support the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects, as well as collaboratively fund activities that benefit the ecosystem as a whole.
+
 ---
 ### Governance
+[Governance](https://nodejs.org/en/about/governance/) The Node.js project follows a Consensus Seeking decision making model.
+
 ---
 ### Key members
+[Key Member TSC Technical Steering Committee](https://github.com/nodejs/TSC/blob/master/TSC-Charter.md)
+[Current members](https://github.com/nodejs/node#tsc-technical-steering-committee)
+[Community Committee Charter](https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md)
+[Strategic Initiatives](https://github.com/nodejs/TSC/blob/master/Strategic-Initiatives.md)
+
 ---
 ### Artifacts
 ---
 ### Noteworthy characteristics
 ---
+
 
 ## One
 

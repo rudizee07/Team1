@@ -17,13 +17,13 @@
     + [Key members](#key-members-1)
     + [Artifacts](#artifacts-1)
     + [Noteworthy characteristics](#noteworthy-characteristics-1)
-  * [One](#one)
+  * [PostgreSQL](#one)
     + [Mission](#mission-2)
     + [Governance](#governance-2)
     + [Key members](#key-members-2)
     + [Artifacts](#artifacts-2)
     + [Noteworthy characteristics](#noteworthy-characteristics-2)
-  * [Two](#two)
+  * [Express.js](#two)
     + [Mission](#mission-3)
     + [Governance](#governance-3)
     + [Key members](#key-members-3)
@@ -114,40 +114,92 @@ Face-to-Face Opportunities: Facilitating collaboration among members of the comm
 
 ## Node.JS
 
-
 ### Mission
----
+
+As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.
+
 ### Governance
----
+
+The Node.js project follows a Consensus Seeking decision making model.
+The nodejs/node core GitHub repository is maintained by the Collaborators who are added by the Technical Steering Committee (TSC) on an ongoing basis.
+
+Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their nomination is discussed with the existing Collaborators.
+
+The project is governed jointly by the Technical Steering Committee (TSC) which is responsible for high-level guidance of the project, and the Community Committee (CommComm) which is responsible for guiding and extending the Node.js community.
+
+[More details](https://github.com/nodejs/node/blob/master/GOVERNANCE.md)
+
 ### Key members
----
+
+https://github.com/nodejs/node/blob/master/README.md#current-project-team-members
+
 ### Artifacts
----
+
+Runtime to execute JavaScript source code locally: https://nodejs.org/en/download/
+
 ### Noteworthy characteristics
----
 
-## One
+Based on the e-mail addresses of team members, most people seem to individuals with some companies like:
+ - IBM: 13 contributors
+ - Github: 6 contributors
+ - Google: 6 contributors
+ - Microsoft: 3 Contributors
+ - Intel: 2 contributors
+
+## PostgreSQL
 
 ### Mission
----
+
+PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+
 ### Governance
----
+
+The PostgreSQL Global Development Group core team is composed of five long-time community members with various specialisations. Their roles include:
+
+- Coordinating release activities.
+- Acting as a conduit for confidential communication.
+- Making policy announcements.
+- Managing permissions for commits, infrastructure, etc.
+- Handling disciplinary issues.
+- Making difficult decisions when consensus is lacking.
+
 ### Key members
----
+
+https://www.postgresql.org/community/contributors/
+
 ### Artifacts
----
+
+Packages to install a database server: https://www.postgresql.org/download/
+
 ### Noteworthy characteristics
----
 
-## Two
+Mainly 3 companies seem to work on PostgreSQL:
+1. EnterpriseDB
+2. 2ndQuadrant
+3. CrunchyData
+
+## Express.js
 
 ### Mission
----
+
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
 ### Governance
----
+
+The Express technical committee consists of active project members, and guides development and maintenance of the Express project. 
+The Express technical committee meets online every two weeks (as needed) to discuss development and maintenance of Express, and other issues relevant to the Express project. 
+
 ### Key members
----
+
+- Blake Embrey
+- Rand McKinney
+- Douglas Wilson
+- Linus Unnebäck
+- Wes Todd
+
 ### Artifacts
----
+
+JavaScript package: https://www.npmjs.com/package/express
+
 ### Noteworthy characteristics
 ---

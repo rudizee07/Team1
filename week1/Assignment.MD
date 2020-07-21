@@ -87,6 +87,7 @@ Rudi Coetzee:
 *FreeBSD Teams*
 - [Teams](https://www.freebsd.org/administration.html)
 *Multiple teams with speciality most members are part of different teams (3-4) Strength and interest of the member*
+
 -[Internal policies for FreeBSD](https://www.freebsd.org/internal/policies.html)
 *FreeBSD project member
 A FreeBSD Project Member is an individual who has made a notable contribution to the FreeBSD Project, and who is continuing to contribute to the Project. That may be in the form of new code, documentation, or patches to existing code and documentation, or in other ways that the Core Team designates, including community management and advocacy. Noteable Contribution of member*
@@ -100,6 +101,12 @@ A FreeBSD Project Member is an individual who has made a notable contribution to
 The nodejs/node core GitHub repository is maintained by the Collaborators who are added by the Technical Steering Committee (TSC) on an ongoing basis.
 Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their nomination is discussed with the existing Collaborators.*
 
+-[community](https://nodejs.org/en/about/community/)
+*There are four types of involvement with the Community Committee:
+A Contributor is any individual creating or commenting on an issue or pull request.
+A Collaborator is a contributor who has been given write access to the repository
+An Observer is any individual who has requested or been requested to attend a CommComm meeting. It is also the first step to becoming a Member.
+A Member is a collaborator with voting rights who has met the requirements of participation and voted in by the CommComm voting process.*
 
 
 ---

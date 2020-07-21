@@ -84,4 +84,22 @@ Rudi Coetzee:
 - [Github](https://www.freebsd.org/platforms/)
 - [ToDo projects](https://wiki.freebsd.org/IdeasPage)
 
+*FreeBSD Teams*
+- [Teams](https://www.freebsd.org/administration.html)
+*Multiple teams with speciality most members are part of different teams (3-4) Strength and interest of the member*
+-[Internal policies for FreeBSD](https://www.freebsd.org/internal/policies.html)
+*FreeBSD project member
+A FreeBSD Project Member is an individual who has made a notable contribution to the FreeBSD Project, and who is continuing to contribute to the Project. That may be in the form of new code, documentation, or patches to existing code and documentation, or in other ways that the Core Team designates, including community management and advocacy. Noteable Contribution of member*
+
+
+2. **NodeJS(https://nodejs.org/en/)**
+*Consensus Seeking Process, The Node.js project follows a Consensus Seeking decision making model.*
+
+-[Governance docs](https://nodejs.org/en/about/governance/)
+*Collaborators
+The nodejs/node core GitHub repository is maintained by the Collaborators who are added by the Technical Steering Committee (TSC) on an ongoing basis.
+Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their nomination is discussed with the existing Collaborators.*
+
+
+
 ---
